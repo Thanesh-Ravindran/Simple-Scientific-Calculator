@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnPoint">.</string>
+    <string name="btnDel">DEL</string>
+    <string name="btnClr">C</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMul">x</string>
+    <string name="btnDiv">÷</string>
+    <string name="btnEquals">=</string>
+    <string name="hint0">0</string>
+    <string name="btnExp">exp</string>
+    <string name="btnLog">log</string>
+    <string name="btnSqr">x\u00B2</string>
+    <string name="btnCube">x\u00B3</string>
+    <string name="btnAbs">abs</string>
+    <string name="btnFlr">flr</string>
+    <string name="btnSin">sin</string>
+    <string name="btnCos">cos</string>
+    <string name="btnTan">tan</string>
+    <string name="btnSrqRoot">\u221a</string>
+    <string name="btnCubeRoot">\u221B</string>
+    <string name="btnPercent">%</string>
+</resources>
